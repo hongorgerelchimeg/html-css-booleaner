@@ -50,3 +50,21 @@ ul {
 .text-highlight {
     background-color: yellow;
 }
+table {
+    border-spacing: 0px;
+    text-align: left;
+  
+}
+.table-dark-backround {
+    background-color: #20a9e5;
+    color: white;
+}
+.table-body-lightblue {
+    background-color: #b1e5f2;
+}
+#table-background-white {
+    background-color: white;
+}
+th {
+    margin-right: 10vw;
+}
