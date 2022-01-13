@@ -66,5 +66,8 @@ table {
     background-color: white;
 }
 th {
-    margin-right: 10vw;
+    width: 25vw;
+}
+#table-header-long {
+    width: 50vw;
 }
