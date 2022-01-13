@@ -46,9 +46,7 @@ a {
 ul {
     padding-inline-start: 15px;
 }
-.list-no-padding {
-    padding-left: -10%;
-}
+
 .text-highlight {
     background-color: yellow;
 }
