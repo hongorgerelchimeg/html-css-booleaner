@@ -71,3 +71,7 @@ th {
 #table-header-long {
     width: 50vw;
 }
+.width-80-percent {
+    width: 12vw;
+    height: auto;
+}
