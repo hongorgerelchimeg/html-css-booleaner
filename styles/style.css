@@ -43,3 +43,12 @@ a {
 .image-explination {
     font-size: 12px;
 }
+ul {
+    padding-inline-start: 15px;
+}
+.list-no-padding {
+    padding-left: -10%;
+}
+.text-highlight {
+    background-color: yellow;
+}
